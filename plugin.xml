@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-ubequ-hardware-plugin"
+        id="cordova-plugin-ukaem-hardware-plugin"
         version="0.0.1-dev">
 
-   <name>Ubequ hardware plugin</name>
+   <name>Ukaem hardware plugin</name>
    <description>A cordova plugin for hardware interaction.</description>
 
-   <repo>https://github.com/irfanabyan/Hardware-Plugin</repo>
+   <repo>https://github.com/myusuf354/hardware-plugin</repo>
    <license>Apache 2.0</license>
    <keywords>cordova, bluetooth, printer, pos, text, barcode, image, base64, qrcode</keywords>
 
-   <author>Ubequ</author>
+   <author>Ukaem</author>
 
    <!-- cordova -->
    <engines>
       <engine name="cordova" version=">=3.0.0" />
    </engines>
 
-   <js-module src="www/UbequBluetoothPrinter.js" name="UbequBluetoothPrinter">
-      <clobbers target="UbequBTPrinter" />
+   <js-module src="www/UkaemBluetoothPrinter.js" name="UkaemBluetoothPrinter">
+      <clobbers target="UkaemBTPrinter" />
    </js-module>
 
    <!-- android -->
    <platform name="android">
       <config-file target="res/xml/config.xml" parent="/*">
-         <feature name="UbequBluetoothPrinter">
-            <param name="android-package" value="com.ubequpos.cordova.printer.bluetooth.UbequBluetoothPrinter"/>
+         <feature name="UkaemBluetoothPrinter">
+            <param name="android-package" value="com.ukaem.cordova.printer.bluetooth.UkaemBluetoothPrinter"/>
          </feature>
       </config-file>
 
@@ -34,7 +34,7 @@
          <uses-permission android:name="android.permission.BLUETOOTH" />
       </config-file>
 
-      <source-file src="src/android/UbequBluetoothPrinter.java" target-dir="src/com/ubequpos/cordova/printer/bluetooth" />
+      <source-file src="src/android/UkaemBluetoothPrinter.java" target-dir="src/com/ukaem/cordova/printer/bluetooth" />
 
    </platform>
 </plugin>

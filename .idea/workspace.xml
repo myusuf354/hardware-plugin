@@ -15,8 +15,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UbequBTPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/android/UbequBTPrinter.java">
+      <file leaf-file-name="UkaemBTPrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/android/UkaemBTPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
@@ -90,7 +90,7 @@
         <option value="$PROJECT_DIR$/www/BluetoothPrinter.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/plugin.xml" />
-        <option value="$PROJECT_DIR$/src/android/UbequBTPrinter.java" />
+        <option value="$PROJECT_DIR$/src/android/UkaemBTPrinter.java" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
@@ -127,23 +127,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="ubequ-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ubequ-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ukaem-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ukaem-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="ubequ-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ubequ-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ukaem-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ukaem-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="ubequ-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ubequ-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ukaem-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ukaem-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="android" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="ubequ-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ubequ-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ukaem-hardware-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ukaem-hardware-plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="www" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -279,7 +279,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/android/UbequBTPrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/android/UkaemBTPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />

@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-ubequ-hardware-plugin",
+  "name": "cordova-plugin-ukaem-hardware-plugin",
   "version": "0.0.1-dev",
   "description": "A cordova plugin for hardware interaction.",
   "cordova": {
-    "id": "cordova-plugin-ubequ-hardware-plugin",
+    "id": "cordova-plugin-ukaem-hardware-plugin",
     "platforms": [
       "android"
     ]
@@ -24,7 +24,7 @@
     "qrcode",
     "ecosystem:cordova",
     "cordova-android",
-    "ubequ"
+    "ukaem"
   ],
   "engines": [
     {
@@ -32,10 +32,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Ubequ",
+  "author": "Ukaem",
   "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/irfanabyan/Hardware-Plugin/issues"
   },
-  "homepage": "ubequpos.com"
+  "homepage": "ukaem.id"
 }

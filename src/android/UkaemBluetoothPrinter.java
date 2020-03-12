@@ -1,4 +1,4 @@
-package com.ubequpos.cordova.printer.bluetooth;
+package com.ukaempos.cordova.printer.bluetooth;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
@@ -35,7 +35,7 @@ import android.util.Base64;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UbequBluetoothPrinter extends CordovaPlugin {
+public class UkaemBluetoothPrinter extends CordovaPlugin {
 	private static final String LOG_TAG = "BluetoothPrinter";
 	BluetoothAdapter mBluetoothAdapter;
 	BluetoothSocket mmSocket;
@@ -76,7 +76,7 @@ public class UbequBluetoothPrinter extends CordovaPlugin {
     public static final byte[] FONT_A = {0x1b, 0x4d, 0x00}; // Font type A
     public static final byte[] FONT_B = {0x1b, 0x4d, 0x01}; // Font type B
 
-	public UbequBluetoothPrinter() {}
+	public UkaemBluetoothPrinter() {}
 
 	@Override
 	public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {

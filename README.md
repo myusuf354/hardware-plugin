@@ -1,2 +1,2 @@
-# Ubequ hardware plugin
-Repository plugin cordova untuk aplikasi Ubequ.
+# Ukaem hardware plugin
+Repository plugin cordova untuk aplikasi Ukaem.
