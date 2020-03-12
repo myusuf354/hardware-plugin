@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irfanabyan/Hardware-Plugin.git"
+    "url": "git+https://github.com/myusuf354/hardware-plugin.git"
   },
   "keywords": [
     "cordova",
@@ -35,7 +35,7 @@
   "author": "Ukaem",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/irfanabyan/Hardware-Plugin/issues"
+    "url": "https://github.com/myusuf354/hardware-plugin/issues"
   },
   "homepage": "ukaem.id"
 }

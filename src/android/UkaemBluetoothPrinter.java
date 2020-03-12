@@ -1,4 +1,4 @@
-package com.ukaempos.cordova.printer.bluetooth;
+package com.ukaem.cordova.printer.bluetooth;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
